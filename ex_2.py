@@ -1,0 +1,11 @@
+print("Premier nombre :")
+number_1 = int(input())
+print("Deuxième nombre :")
+number_2 = int(input())
+
+print(f"Le résultat de l'addition est : {str(number_1 + number_2)}.")
+print(f"Le résultat de la soustraction est : {str(number_1 - number_2)}.")
+print(f"Le résultat de la multiplication est : {str(number_1 * number_2)}.")
+print(f"Le résultat de la division est : {str(number_1 / number_2)}.")
+print(f"Le résultat du modulo est : {str(number_1 % number_2)}.")
+print(f"Le résultat de l'étage est : {str(number_1 // number_2)}.")
